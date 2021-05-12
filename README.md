@@ -2,6 +2,7 @@
 
 Repo for FYP project in COMP30910 2020
 
+# Project Details
 
 | Project Details|     |
 | ------ | ------ |
