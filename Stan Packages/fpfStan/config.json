@@ -1,0 +1,5 @@
+{"path": "Credit-Scoring-Clean.csv", 
+"target_variable": "CreditStatus",
+"correlation_threshold" : "0.8",
+"missing_value_strategy":"mean"
+}
